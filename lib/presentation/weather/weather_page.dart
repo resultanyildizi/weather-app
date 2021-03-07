@@ -105,11 +105,11 @@ class WeatherPage extends StatelessWidget {
   Column _buildInitial(BuildContext context) {
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
-      crossAxisAlignment: CrossAxisAlignment.start,
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Text(
           'Search for city 🏙',
-          style: Theme.of(context).textTheme.headline3,
+          style: Theme.of(context).textTheme.headline4,
         ),
         Form(
           child: Column(

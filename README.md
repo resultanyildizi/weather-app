@@ -3,7 +3,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Don't Forget
+# Weather App
 
 <!-- Project Logo -->
 <p align=center>
