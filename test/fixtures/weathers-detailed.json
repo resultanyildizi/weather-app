@@ -1,0 +1,37 @@
+[
+    {
+        "city": "İstanbul",
+        "temperatureCelsius": 27.0,
+        "temperatureFahrenheit": 80.6
+    },
+    {
+        "city": "Ankara",
+        "temperatureCelsius": 22.0,
+        "temperatureFahrenheit": 71.6
+    },
+    {
+        "city": "Malatya",
+        "temperatureCelsius": 29.5,
+        "temperatureFahrenheit": 85.1
+    },
+    {
+        "city": "Elazığ",
+        "temperatureCelsius": 23.1,
+        "temperatureFahrenheit": 73.58
+    },
+    {
+        "city": "Mersin",
+        "temperatureCelsius": 24.4,
+        "temperatureFahrenheit": 75.92
+    },
+    {
+        "city": "Adıyaman",
+        "temperatureCelsius": 21.74,
+        "temperatureFahrenheit": 71.13
+    },
+    {
+        "city": "Sinop",
+        "temperatureCelsius": 32.0,
+        "temperatureFahrenheit": 89.6
+    }
+]

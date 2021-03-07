@@ -1,0 +1,30 @@
+[
+    {
+        "city": "İstanbul",
+        "temperatureCelsius": 27.0
+    },
+    {
+        "city": "Ankara",
+        "temperatureCelsius": 22.0
+    },
+    {
+        "city": "Malatya",
+        "temperatureCelsius": 29.5
+    },
+    {
+        "city": "Elazığ",
+        "temperatureCelsius": 23.1
+    },
+    {
+        "city": "Mersin",
+        "temperatureCelsius": 24.4
+    },
+    {
+        "city": "Adıyaman",
+        "temperatureCelsius": 21.74
+    },
+    {
+        "city": "Sinop",
+        "temperatureCelsius": 32.0
+    }
+]
