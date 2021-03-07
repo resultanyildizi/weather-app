@@ -108,7 +108,7 @@ class WeatherPage extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Text(
-          'Search for city 🏙',
+          'Search for a city 🏙',
           style: Theme.of(context).textTheme.headline4,
         ),
         Form(
